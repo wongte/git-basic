@@ -1,1 +1,6 @@
 this is new file/ Changed
+
+The answer:
+add is for changing files to staging
+commit is for saving the changes to the local repository
+push is for publishing to remote
